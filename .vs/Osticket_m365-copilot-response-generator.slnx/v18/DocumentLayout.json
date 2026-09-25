@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\plugin.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:plugin.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\Config.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Config.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\AIResponsePlugin.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\AIResponsePlugin.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365TokenManager.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\Microsoft365TokenManager.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365CopilotClient.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:api\\Microsoft365CopilotClient.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-09-25T06:31:01.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plugin.php",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\plugin.php",
+              "RelativeDocumentMoniker": "plugin.php",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\plugin.php",
+              "RelativeToolTip": "plugin.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-09-25T06:30:59.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Config.php",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\Config.php",
+              "RelativeDocumentMoniker": "src\\Config.php",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\Config.php",
+              "RelativeToolTip": "src\\Config.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-09-25T06:30:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AIResponsePlugin.php",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\AIResponsePlugin.php",
+              "RelativeDocumentMoniker": "src\\AIResponsePlugin.php",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\src\\AIResponsePlugin.php",
+              "RelativeToolTip": "src\\AIResponsePlugin.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-09-25T06:30:57.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Microsoft365TokenManager.php",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365TokenManager.php",
+              "RelativeDocumentMoniker": "api\\Microsoft365TokenManager.php",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365TokenManager.php",
+              "RelativeToolTip": "api\\Microsoft365TokenManager.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-09-25T06:30:55.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Microsoft365CopilotClient.php",
+              "DocumentMoniker": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365CopilotClient.php",
+              "RelativeDocumentMoniker": "api\\Microsoft365CopilotClient.php",
+              "ToolTip": "C:\\Users\\GeirBakke\\source\\repos\\Geirbakkew\\Osticket_m365-copilot-response-generator\\api\\Microsoft365CopilotClient.php",
+              "RelativeToolTip": "api\\Microsoft365CopilotClient.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2026-09-25T06:30:52.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
